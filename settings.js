@@ -17,7 +17,7 @@ global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
-global.pairing_code = true
+global.pairing_code = false
 global.number_bot = '6283877128554' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
 
 global.fake = {
